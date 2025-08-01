@@ -26,7 +26,7 @@ Sou proativo, curioso e apaixonado por tecnologia e inovação. </br>Estou sempr
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lfreits&layout=compact&theme=dark" alt="Top Langs"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Lfreits&theme=dark&hide_border=false" alt="GitHub streak stats"/>
 </p>
 
