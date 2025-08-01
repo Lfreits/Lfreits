@@ -1,15 +1,26 @@
-### 👋 Olá, meu nome é Lucas de Freitas Melo,
+### 👋 Olá, meu nome é Lucas Freitas
 
-  📖 Desde que comecei a explorar o mundo da computação me senti fascinado, e hoje o que mais gosto de fazer é ficar aprendendo algo relacionado à área.
+Sou desenvolvedor back-end júnior com foco em **Java**. No meu dia a dia, gosto de transformar ideias em projetos organizados, práticos e que realmente agregam valor.
 
-### 💼 *Sobre mim:*
+Sou proativo, estou sempre em busca de novos aprendizados e tenho paixão por descobrir e aplicar coisas novas no que faço.
 
-  👨‍💻 Atualmente estou cursando *Ciências da Computação* na Escola Superior Dom Helder Câmara, mas meus conhecimentos não se limitam somente pelo que aprendo na faculdade, pois gosto muito de ir além do que a faculdade ensina.
+---
 
-  🚀 A cada dia que passa me sinto mais maravilhado com o universo da computação, por isso estou em busca de *novas oportunidades* na área, para colocar em prática tudo que venho estudando.
-  
-  ### 📫 *Informações de contato:*
-    Email: freitas.lucas0402@gmail.com
-    Linkedin: https://www.linkedin.com/in/lucas-freitas-082520270/
+### Hard Skills
 
+![Java](https://img.shields.io/badge/Java?style=flat&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL?style=flat&logo=postgresql&logoColor=white)
 
+---
+### 📫 Informações de contato
+- 📧 Email: freitas.lucas0402@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-freitas-082520270/)
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lfreits&layout=compact&theme=dark)
